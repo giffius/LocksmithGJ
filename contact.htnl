@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact Locksmith Grand Junction - Local, trusted locksmith serving Grand Junction since day one. Get a free quote or emergency service. Call 970-610-1313 or use our contact form.">
+    <meta name="keywords" content="contact locksmith grand junction, locksmith near me, get quote, about locksmith grand junction, local locksmith">
+    <title>Contact & About Us | Locksmith Grand Junction - Local Trusted Service</title>
+    
+    <!-- LocalBusiness Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Locksmith",
+      "name": "Locksmith Grand Junction",
+      "image": "https://via.placeholder.com/1200x630?text=Locksmith+Grand+Junction",
+      "url": "https://locksmithgrandjunction.com/contact.html",
+      "telephone": "+19706101313",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grand Junction",
+        "addressLocality": "Grand Junction",
+        "addressRegion": "CO",
+        "postalCode": "81501",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 39.0639,
+        "longitude": -108.5506
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "priceRange": "$$",
+      "areaServed": {
+        "@type": "City",
+        "name": "Grand Junction"
+      }
+    }
+    </script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Mobile Navigation -->
+    <nav class="mobile-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="index.html">🔒 Locksmith GJ</a>
+            </div>
+            <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+        <div class="nav-menu" id="navMenu">
+            <a href="index.html">Home</a>
+            <a href="residential.html">Residential</a>
+            <a href="commercial.html">Commercial</a>
+            <a href="emergency.html">24/7 Emergency</a>
+            <a href="contact.html" class="active">Contact & About</a>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Contact Us & About Our Company</h1>
+            <p>Your trusted local locksmith serving Grand Junction with pride</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="content-section">
+        <div class="container">
+            <!-- About Us Section -->
+            <div class="about-section">
+                <h2>About Locksmith Grand Junction</h2>
+                <img src="https://via.placeholder.com/1000x400?text=About+Locksmith+Grand+Junction" alt="Professional locksmith team serving Grand Junction Colorado">
+                
+                <div class="about-content">
+                    <h3>Your Neighbors in Security</h3>
+                    <p>Locksmith Grand Junction is a locally owned and operated locksmith company dedicated to protecting the homes and businesses of our community. We understand the importance of security because we live here, work here, and raise our families here alongside you. When you call us, you're not getting a faceless corporate service – you're getting your neighbors who genuinely care about your safety and peace of mind.</p>
+                    
+                    <h3>Professional Experience You Can Trust</h3>
+                    <p>Our team consists of licensed, bonded, and insured locksmith professionals with years of experience in residential and commercial security solutions. We stay current with the latest lock technology, from traditional deadbolts to cutting-edge smart lock systems, ensuring we can handle any security challenge you face. Every technician on our team undergoes rigorous training and background checks because we know that inviting a locksmith into your home or business requires absolute trust.</p>
+                    
+                    <h3>Why We're Different</h3>
+                    <p>In an industry often plagued by scams and hidden fees, we've built our reputation on transparency, honesty, and quality workmanship. We provide upfront pricing before starting any job, use only high-quality products from trusted manufacturers, and guarantee our work. Our emergency service is truly available 24/7 – when you call, a real person answers, not a voicemail system. We pride ourselves on fast response times because we understand that lock emergencies create real stress and disruption in your life.</p>
+                    
+                    <h3>Community Commitment</h3>
+                    <p>Beyond providing excellent locksmith services, we're committed to making Grand Junction safer. We offer free security consultations to help homeowners and business owners identify vulnerabilities and implement cost-effective security improvements. We believe that an informed community is a safer community, and we're always happy to share our expertise to help protect our neighbors.</p>
+                    
+                    <h3>Our Promise to You</h3>
+                    <p>When you choose Locksmith Grand Junction, you're choosing a company that values integrity, professionalism, and customer satisfaction above all else. We promise to treat your property with respect, complete every job to the highest standards, and provide honest recommendations that serve your best interests – not our bottom line. Your security is our business, and your trust is our most valuable asset.</p>
+                </div>
+            </div>
+
+            <!-- Contact Information -->
+            <div class="contact-info-section">
+                <h2>Get in Touch</h2>
+                <div class="contact-grid">
+                    <div class="contact-card">
+                        <div class="contact-icon">📞</div>
+                        <h3>Call Us Anytime</h3>
+                        <p class="contact-detail"><a href="tel:9706101313">970-610-1313</a></p>
+                        <p>24/7 Emergency Service Available</p>
+                        <p>Speak with a real person, day or night</p>
+                    </div>
+                    
+                    <div class="contact-card">
+                        <div class="contact-icon">📍</div>
+                        <h3>Service Area</h3>
+                        <p class="contact-detail">Grand Junction, CO 81501</p>
+                        <p>Serving Grand Junction & Surrounding Areas</p>
+                        <p>Including Redlands, Clifton, Orchard Mesa, and more</p>
+                    </div>
+                    
+                    <div class="contact-card">
+                        <div class="contact-icon">🕐</div>
+                        <h3>Hours</h3>
+                        <p class="contact-detail">24/7/365</p>
+                        <p>Emergency Service: Always Available</p>
+                        <p>Regular Service: 7 Days a Week</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact Form -->
+            <div class="contact-form-section">
+                <h2>Request a Quote or Appointment</h2>
+                <p class="form-intro">Fill out the form below and we'll get back to you as soon as possible. For immediate assistance or emergencies, please call us at <a href="tel:9706101313">970-610-1313</a>.</p>
+                
+                <form class="contact-form" id="contactForm">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="name">Your Name *</label>
+                            <input type="text" id="name" name="name" required placeholder="John Smith">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="phone">Phone Number *</label>
+                            <input type="tel" id="phone" name="phone" required placeholder="970-555-1234">
+                        </div>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="email">Email Address *</label>
+                            <input type="email" id="email" name="email" required placeholder="john@example.com">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="service">Service Needed *</label>
+                            <select id="service" name="service" required>
+                                <option value="">Select a service</option>
+                                <option value="emergency">Emergency Lockout</option>
+                                <option value="residential">Residential Locksmith</option>
+                                <option value="commercial">Commercial Locksmith</option>
+                                <option value="rekey">Lock Rekeying</option>
+                                <option value="installation">Lock Installation</option>
+                                <option value="repair">Lock Repair</option>
+                                <option value="smart-locks">Smart Lock Installation</option>
+                                <option value="other">Other / Not Sure</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="address">Property Address</label>
+                        <input type="text" id="address" name="address" placeholder="123 Main St, Grand Junction, CO">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Message / Details *</label>
+                        <textarea id="message" name="message" rows="5" required placeholder="Please describe your locksmith needs or any questions you have..."></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="preferred-contact">Preferred Contact Method</label>
+                        <select id="preferred-contact" name="preferred-contact">
+                            <option value="phone">Phone Call</option>
+                            <option value="email">Email</option>
+                            <option value="either">Either Phone or Email</option>
+                        </select>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <p class="form-note">* Required fields. We respect your privacy and will never share your information.</p>
+                </form>
+                
+                <div class="form-success" id="formSuccess" style="display: none;">
+                    <h3>✓ Thank You!</h3>
+                    <p>Your message has been received. We'll contact you shortly to discuss your locksmith needs.</p>
+                </div>
+            </div>
+
+            <!-- Why Choose Us -->
+            <div class="why-section">
+                <h2>Why Grand Junction Trusts Us</h2>
+                <div class="benefits-grid">
+                    <div class="benefit-item">
+                        <h3>🏆 Licensed & Insured</h3>
+                        <p>Fully licensed, bonded, and insured for your protection and peace of mind. Professional service you can count on.</p>
+                    </div>
+                    <div class="benefit-item">
+                        <h3>💰 Honest Pricing</h3>
+                        <p>Upfront quotes with no hidden fees. You'll know the price before we start work – no surprises on the bill.</p>
+                    </div>
+                    <div class="benefit-item">
+                        <h3>⚡ Fast Service</h3>
+                        <p>Quick response times for emergencies and prompt scheduling for routine work. We value your time as much as our own.</p>
+                    </div>
+                    <div class="benefit-item">
+                        <h3>🛠️ Expert Technicians</h3>
+                        <p>Experienced professionals who stay current with the latest security technology and best practices in the industry.</p>
+                    </div>
+                    <div class="benefit-item">
+                        <h3>🏘️ Local Company</h3>
+                        <p>Locally owned and operated. We're your neighbors, invested in keeping our community safe and secure.</p>
+                    </div>
+                    <div class="benefit-item">
+                        <h3>✓ Quality Guarantee</h3>
+                        <p>We stand behind our work with a satisfaction guarantee. If you're not happy, we'll make it right.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service Area Details -->
+            <div class="service-area-details">
+                <h2>Areas We Serve</h2>
+                <p>Locksmith Grand Junction proudly serves the entire Grand Junction metropolitan area and surrounding communities. No matter where you are in the region, we're your local locksmith solution.</p>
+                
+                <div class="areas-grid">
+                    <div class="area-column">
+                        <h3>Primary Service Area</h3>
+                        <ul>
+                            <li>Downtown Grand Junction</li>
+                            <li>Redlands</li>
+                            <li>Clifton</li>
+                            <li>Orchard Mesa</li>
+                            <li>Fruitvale</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="area-column">
+                        <h3>Extended Coverage</h3>
+                        <ul>
+                            <li>Palisade</li>
+                            <li>Whitewater</li>
+                            <li>Loma</li>
+                            <li>Fruita (nearby)</li>
+                            <li>And surrounding areas</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <p class="service-note">If your location isn't listed, give us a call! We're often able to extend service to nearby areas, especially for emergency situations.</p>
+            </div>
+
+            <!-- Final CTA -->
+            <div class="cta-section">
+                <h2>Ready to Secure Your Property?</h2>
+                <p>Contact Locksmith Grand Junction today for professional locksmith services you can trust. Whether you need emergency assistance or want to schedule routine security upgrades, we're here to help.</p>
+                <div class="cta-buttons">
+                    <a href="tel:9706101313" class="btn btn-primary">Call 970-610-1313 Now</a>
+                    <a href="#contactForm" class="btn btn-secondary">Send Us a Message</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h3>Locksmith Grand Junction</h3>
+                    <p>Your trusted local locksmith for residential and commercial security solutions.</p>
+                    <p class="footer-phone">📞 <a href="tel:9706101313">970-610-1313</a></p>
+                </div>
+                
+                <div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="residential.html">Residential Services</a></li>
+                        <li><a href="commercial.html">Commercial Services</a></li>
+                        <li><a href="emergency.html">24/7 Emergency</a></li>
+                        <li><a href="contact.html">Contact & About</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h4>Service Hours</h4>
+                    <p>24/7 Emergency Service Available</p>
+                    <p>Open Every Day</p>
+                    <p>Grand Junction, CO 81501</p>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 Locksmith Grand Junction. All rights reserved.</p>
+                <p class="footer-credit">Website by <a href="https://clipperweb.design" target="_blank" rel="noopener">Clipper Web Design</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Sticky Call Button (Mobile) -->
+    <a href="tel:9706101313" class="sticky-call-btn" aria-label="Call Locksmith Grand Junction">
+        📞 Call Now
+    </a>
+
+    <script src="script.js"></script>
+</body>
+</html>
